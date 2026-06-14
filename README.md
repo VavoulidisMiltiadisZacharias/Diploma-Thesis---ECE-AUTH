@@ -13,7 +13,7 @@ A python based implelentation for the identification of key genes in cancerous c
 
 ### **General info:**
 This project evaluates how different dimensionality reduction techniques can be used to identify and rank important genes in genomics data (specifically gene expression) for cancer research. The implementation is built entirely in Python. Feel free to download and edit the code.
-- *Keywords*: Computational Oncology, Gene Expression, Dimensionality Reduction, Graph Theory, Machine Learning,Genes Ranking
+- *Keywords*: Computational Oncology, Gene Expression, Dimensionality Reduction, Graph Theory, Machine Learning, Genes Ranking
 <br/>
 
 ### **Setup:**
